@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hello there <img src="https://media3.giphy.com/media/YSNTUguOMvWiIY4TQx/giphy.gif" width="60" height="60">
 
-<!--
-**DeemAQ/DeemAQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About Me
+An eager-to-learn 🐱‍💻 and passionate ⚡ fresh Comp Sci graduate!
 
-Here are some ideas to get you started:
+I share personal projects and things I learned along the journey 🎈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Languages:
+* Python 🐍
+* SQL
+* C
+* Bash
+* Java Script, PHP, CSS
+* Kotlin
+* Java
+* Matlab
+
+_____________
+#### You can find me on:
+
+[![LinkedIn](https://img.shields.io/badge/%20-LinkedIn%20-blue)](https://www.linkedin.com/in/deem-alqudaimi/)
