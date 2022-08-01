@@ -1,7 +1,7 @@
-# Hello there <img src="https://media3.giphy.com/media/YSNTUguOMvWiIY4TQx/giphy.gif" width="60" height="60">
+# Hello, World! <img src="https://media3.giphy.com/media/YSNTUguOMvWiIY4TQx/giphy.gif" width="60" height="60">
 
 #### About Me
-An eager-to-learn 🐱‍💻 and passionate ⚡ fresh Comp Sci graduate!
+I am an eager-to-learn 🐱‍💻 and passionate ⚡ fresh Comp Sci graduate!
 
 I share personal projects and things I learned along the journey 🎈
 
@@ -11,7 +11,7 @@ Languages:
 * SQL
 * C
 * Bash
-* Java Script, PHP, CSS
+* JavaScript, PHP, CSS
 * Kotlin
 * Java
 * Matlab
