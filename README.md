@@ -23,6 +23,11 @@ ______________
          width=150" height="100">
 </a>
 
+<a href="https://www.cloudskillsboost.google/public_profiles/574b8101-7730-486a-b7e2-aff0a92882bb/badges/2609747">
+         <img alt="badge1" src="https://cdn.qwiklabs.com/E0JKzdW%2BMe9R7IG0d1z1jdKa%2B8F5U5UYdKIVpVVa3EA%3D"
+         width=150" height="100">
+</a>
+
 _____________
 #### You can find me on:
 
