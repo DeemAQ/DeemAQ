@@ -28,6 +28,16 @@ ______________
          width=150" height="100">
 </a>
 
+<a href="https://www.cloudskillsboost.google/public_profiles/574b8101-7730-486a-b7e2-aff0a92882bb/badges/2647201">
+         <img alt="badge1" src="https://cdn.qwiklabs.com/fUkNC8Ujw5C3fdqhXntXppEGL%2BupKOgvE42GWf4Oo68%3D"
+         width=150" height="100">
+</a>
+
+<a href="https://www.cloudskillsboost.google/public_profiles/574b8101-7730-486a-b7e2-aff0a92882bb/badges/2648357">
+         <img alt="badge1" src="https://cdn.qwiklabs.com/%2BfUNwBxkIaRRdkzbDGS6GW%2BBbMbyXO6F%2BJg%2B3QrSXeA%3D"
+         width=150" height="100">
+</a>
+
 _____________
 #### You can find me on:
 
