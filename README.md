@@ -37,3 +37,5 @@ ______________
 
 <img alt="badge1" src="https://assets.carolus.kodeco.com/assets/badges/lp_android_beginners-748064c63d1a8c02f811e9d745b12b77ea716e388d4b6aab1291e2e87ec4a76b.png"
          width="150" height="150">
+<img alt="badge1" src="https://assets.carolus.kodeco.com/assets/badges/lp_android_architecture-e74597a3f43bbab303047367b8c186e5f9e134eb2511508e415d46e7ff77ec17.png"
+         width="150" height="150">
