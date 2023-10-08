@@ -33,3 +33,7 @@ ______________
          <img alt="badge1" src="https://cdn.qwiklabs.com/%2BfUNwBxkIaRRdkzbDGS6GW%2BBbMbyXO6F%2BJg%2B3QrSXeA%3D"
          width="150" height="100">
 </a>
+
+
+<img alt="badge1" src="https://assets.carolus.kodeco.com/assets/badges/lp_android_beginners-748064c63d1a8c02f811e9d745b12b77ea716e388d4b6aab1291e2e87ec4a76b.png"
+         width="150" height="150">
