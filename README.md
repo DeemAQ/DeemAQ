@@ -39,3 +39,6 @@ ______________
          width="150" height="150">
 <img alt="badge1" src="https://assets.carolus.kodeco.com/assets/badges/lp_android_architecture-e74597a3f43bbab303047367b8c186e5f9e134eb2511508e415d46e7ff77ec17.png"
          width="150" height="150">
+<img alt="badge1" src="https://assets.carolus.kodeco.com/assets/badges/lp_android_ides_tools-0c73b7c5f9dea33c3fd30f1cc91521b372f1f1037a3b500148418486caaaefd0.png"
+         width="150" height="150">
+         
