@@ -8,8 +8,8 @@ You can find me on [![LinkedIn](https://img.shields.io/badge/%20-LinkedIn%20-blu
 **Languages:**
 * Python 🐍
 * Kotlin 📱
+* Swift 📱
 * C 🖲
-* JavaScript, PHP 🕸
 * Java ☕
 
 ______________
