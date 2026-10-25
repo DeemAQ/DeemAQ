@@ -9,7 +9,7 @@ You can find me on [![LinkedIn](https://img.shields.io/badge/%20-LinkedIn%20-blu
 * Python 🐍
 * Kotlin 📱
 * Swift 📱
-* C 🖲
+* TypeScript 🕸️
 * Java ☕
 
 ______________
